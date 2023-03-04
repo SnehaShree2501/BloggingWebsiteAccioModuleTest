@@ -14,3 +14,4 @@ Requirements:
 --Allow the user to view their search history and click on previous search queries to view the book data again.
 --The website should have a responsive UI, and the modals should work properly on all screen sizes.
 --The website should be deployed and accessible online.
+--Changes to be done.
